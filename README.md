@@ -1,4 +1,5 @@
 ### Gradient-Importance-Learning
+Please see the final product in *FinalReport_ElenaW* and *FinalPoster_ElenaW*
 Investigating automated algorithms to detect sepsis labels more precisely by 2 major methods for over 70% incomplete observations: \
      i) Logistic Regression w/o Missing Values \
      ii) Gradient Importance Learning w/n Missing Values      
